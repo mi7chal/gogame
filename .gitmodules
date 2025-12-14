@@ -1,0 +1,6 @@
+[submodule "gogame-client"]
+	path = gogame-client
+	url = https://github.com/mi7chal/gogame-client
+[submodule "gogame-server"]
+	path = gogame-server
+	url = https://github.com/mi7chal/gogame-server.git
